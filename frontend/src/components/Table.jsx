@@ -3,7 +3,7 @@ import {BsFillTrashFill , BsFillPencilFill} from "react-icons/Bs";
 
 export const Table = () => {
   return (
-    <div id='table' className='m-0 p-2 max-w-[1040px] m-auto md:pl-20 p-4 py-16'>
+    <div id='table' className='p-2 max-w-[1040px] m-auto md:pl-20 py-16'>
       
       <div className='w-full h-full'>
       <h1 className='py-4 text-4xl font-bold text-center text-[#001b5e]'>Tableau des reclamations </h1>
